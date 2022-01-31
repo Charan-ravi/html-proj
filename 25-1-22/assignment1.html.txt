@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<head>
+	<title>Fact assignment</title>
+</head>
+
+<body>
+	<h1>Top 5 Facts:</h1>
+	<h3>Fact 1</h3>
+	<p>Sea otters hold hands when they sleep to keep from drifting apart.</p>
+	<h3>Fact 2</h3>
+	<p>Cows have best friends.</p>
+	<h3>Fact 3</h3>
+	<p>Slugs have four noses.</p>
+	<h3>Fact 4</h3>
+	<p>Giraffes have no vocal cords.</p>
+	<h3>Fact 5</h3>
+	<p>A snail can sleep for three years.</p>
+</body>

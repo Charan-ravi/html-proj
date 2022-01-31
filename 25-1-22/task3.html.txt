@@ -1,0 +1,17 @@
+<head>
+    <title>Comics</title>
+</head>
+<body>
+<h1 id="header1" class="hero">
+    <u>Thor</u>
+</h1>
+<h1 id="header2" class="villan">
+    <i>Loki</i>
+</h1>
+<h1 id="header3" class="hero">
+	<p>Spiderman</p>
+</h1>
+<h1 id="header1" class="villan">
+	<p>Thanos</p>
+</h1>
+</body>

@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<head><title>working with API</title>
+</head>
+<body>
+    <h1 id="author"></h1>
+    <p id="quote"></p>
+    <button id="get-quote">Get New Quote</button>
+</body>

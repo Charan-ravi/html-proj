@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Image tag</title>
+</head>
+
+<body>
+    <img width="150px" height ="150px"src="https://vignette.wikia.nocookie.net/simpsons/images/0/02/Homer_Simpson_2006.png">
+    <img src="https://vignette.wikia.nocookie.net/simpsons/images/6/65/Bart_Simpson.png" height="100px" width="100px">
+    <img src="https://vignette.wikia.nocookie.net/simpsons/images/d/d5/Lisa_Simpson_official.png" height="70px" width="70px">
+</body>
